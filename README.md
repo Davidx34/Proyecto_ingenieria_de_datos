@@ -66,3 +66,10 @@ stakeholders y modelos de datos) vive en [`docs/entregables/`](docs/entregables/
 
 **Entregable 1 completado.** En desarrollo: Entregable 2 (diseño lógico y físico,
 implementación relacional).
+
+#### Cómo clonar
+
+```bash
+git clone https://github.com/Davidx34/Proyecto_ingenieria_de_datos.git
+cd Proyecto_ingenieria_de_datos
+```
