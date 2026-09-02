@@ -73,3 +73,5 @@ implementación relacional).
 git clone https://github.com/Davidx34/Proyecto_ingenieria_de_datos.git
 cd Proyecto_ingenieria_de_datos
 ```
+#### Tablero trello
+https://trello.com/b/IBj40svK
