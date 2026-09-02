@@ -51,7 +51,7 @@ Proyecto_ingenieria_de_datos/
 
 ## Stack tecnológico
 
-- **PostgreSQL** — base de datos relacional para los datos transaccionales.
+- **MySQL** — base de datos relacional para los datos transaccionales.
 - **MongoDB** — base de datos documental para la parte no relacional de la solución híbrida.
 - **Node.js** — conector de aplicación hacia MongoDB.
 - **Power BI** — tablero de control para la analítica de rentabilidad (Módulo 4).
