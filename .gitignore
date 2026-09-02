@@ -1,0 +1,26 @@
+# Dependencias
+node_modules/
+
+# Variables de entorno / credenciales
+.env
+.env.local
+
+# Power BI (temporales)
+*.pbix.tmp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.pyc
+
+# Residuos de compilación LaTeX
+*.aux
+*.log
+*.toc
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
