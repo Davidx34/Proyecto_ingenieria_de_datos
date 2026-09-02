@@ -74,4 +74,4 @@ git clone https://github.com/Davidx34/Proyecto_ingenieria_de_datos.git
 cd Proyecto_ingenieria_de_datos
 ```
 #### Tablero trello
-https://trello.com/b/IBj40svK
+https://trello.com/invite/b/6a8651745f0058c3379d8943/ATTId67b1221493ec3d7402afdb95ae2ede59327D92A/proyecto-liwi-flor-eterna
