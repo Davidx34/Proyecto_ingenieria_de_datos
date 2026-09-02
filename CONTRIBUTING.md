@@ -21,8 +21,9 @@ Flujo de trabajo del equipo para el Proyecto de Ingeniería de Datos de Liwi Flo
 ## Revisión de código
 
 - Antes de fusionar cualquier cambio a `main`, **otro integrante distinto de quien
-  escribió el código debe revisarlo**. Esto corresponde a la columna **"En revisión"**
-  del tablero Kanban del equipo.
+  produjo el artefacto debe revisarlo** — ya sea código, un diagrama o un documento
+  `.tex`. Esto corresponde a la columna **"En revisión"** del tablero Kanban del
+  equipo.
 - La revisión se hace mediante Pull Request hacia `main`. El PR no se fusiona hasta
   tener la aprobación del revisor.
 
@@ -38,7 +39,7 @@ Flujo de trabajo del equipo para el Proyecto de Ingeniería de Datos de Liwi Flo
 ## Verificación antes del merge
 
 - Antes de hacer merge a `main`, verificar que el script SQL o NoSQL **corra sin
-  errores localmente** (PostgreSQL, Mongo Shell o el conector de Node.js, según
+  errores localmente** (MySQL, Mongo Shell o el conector de Node.js, según
   corresponda).
 - Si el cambio es de documentación o diagramas, verificar que el `.tex` compile y que
   las imágenes exportadas estén actualizadas.

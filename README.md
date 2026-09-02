@@ -1,6 +1,6 @@
 # Proyecto de Ingeniería de Datos — Liwi Flor Eterna
 
-Solución híbrida de base de datos (PostgreSQL + MongoDB) con un tablero de control en
+Solución híbrida de base de datos (MySQL + MongoDB) con un tablero de control en
 Power BI para analizar la rentabilidad de la empresa **Liwi Flor Eterna**. El sistema
 integra la gestión operativa (clientes, pedidos, productos, inventario, usuarios y
 seguridad) con una capa analítica que consolida los datos de los tres módulos
@@ -51,7 +51,7 @@ Proyecto_ingenieria_de_datos/
 
 ## Stack tecnológico
 
-- **PostgreSQL** — base de datos relacional para los datos transaccionales.
+- **MySQL** — base de datos relacional para los datos transaccionales.
 - **MongoDB** — base de datos documental para la parte no relacional de la solución híbrida.
 - **Node.js** — conector de aplicación hacia MongoDB.
 - **Power BI** — tablero de control para la analítica de rentabilidad (Módulo 4).

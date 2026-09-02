@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Verificar que la solución híbrida (PostgreSQL + MongoDB) y el tablero de Power BI
+Verificar que la solución híbrida (MySQL + MongoDB) y el tablero de Power BI
 cumplen los requisitos funcionales de los cuatro módulos y las cinco historias de
 usuario definidas en el Entregable 1.
 
