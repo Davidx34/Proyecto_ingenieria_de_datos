@@ -109,6 +109,9 @@ La documentación formal del proyecto (contextualización, pregunta problema, ob
 alcance, metodología, propuesta de solución, requisitos, historias de usuario,
 stakeholders y modelos de datos) vive en [`docs/entregables/`](docs/entregables/).
 
+## Videos de Explicacion
+https://youtu.be/JFEndOmtA_s
+
 ## Estado actual
 
 **Entregable 1 completado. Entregable 2 (diseño lógico, físico e implementación
